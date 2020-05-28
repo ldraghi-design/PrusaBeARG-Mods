@@ -1,4 +1,4 @@
-# MK2s Style Extruder with MK3 Backplate
+# MK2s Style Extruder with MK3 Backplate by LD-Design
 
 [![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](https://nodesource.com/products/nsolid)
 
