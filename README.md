@@ -1,2 +1,2 @@
 # PrusaBear
-Parts and updates forPrusaBear
+Parts and updates for PrusaBear
