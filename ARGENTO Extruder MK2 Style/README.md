@@ -1,9 +1,12 @@
-# MK2s Style Extruder with MK3 Backplate by LD-Design
+# MK2s Style Extruder with MK3 Backplate
 
-powered by:
-![alt text][logo]
+
+
+powered by:![alt text][logo]
 
 [logo]: https://github.com/ldraghi-design/PrusaBeARG-Mods/raw/master/ARGENTO%20Extruder%20MK2%20Style/img/LDDesignLOGO.png "Logo Title Text 2"
+
+
 
 ### Summary!
 
