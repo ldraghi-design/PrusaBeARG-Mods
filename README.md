@@ -1,2 +1,2 @@
-# PrusaBear
-Parts and updates for PrusaBear
+# PrusaBeARG-Mods
+Parts and upgrades for PrusaBear
