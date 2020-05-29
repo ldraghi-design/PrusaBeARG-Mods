@@ -7,8 +7,6 @@
  - Run ARGENTO v6 Hotend with 40mm fan, the new MK3 45º nozzle fan and a MK3 style X-carriage on your Bear
  - Uses the Prusa MK2 gear and bearing
  - New X-carriage + backplate (MK3 R2 style) that solves the problem with the cable management / endstop on MK2
- - Import a HTML file and watch it magically convert to Markdown
- - Drag and drop images (requires your Dropbox account be linked)
 
 
 #### Recommended print settings:
